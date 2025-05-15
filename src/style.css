@@ -1,0 +1,11 @@
+/* styles.css */
+body {
+  background-color: rebeccapurple;
+}
+
+.cssImageTst {
+  width: 300px;
+  height: 200px;
+  background-image: url('./images/PiretSphereFinal.png');
+  background-size: cover; /* To make the image cover the whole box */
+}
